@@ -1,0 +1,11 @@
+----- Begin Fatal Exception 03-Dec-2021 14:16:49 CET-----------------------
+An exception of category 'ConfigFileReadError' occurred while
+   [0] Processing the python configuration file named produceLHEGEN27.0.py
+Exception Message:
+ unknown python problem occurred.
+AttributeError: 'Process' object has no attribute 'generator'
+
+At:
+  produceLHEGEN27.0.py(89): <module>
+
+----- End Fatal Exception -------------------------------------------------
